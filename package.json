@@ -1,6 +1,9 @@
 {
   "name": "insighty",
+  "description": "...",
   "version": "0.0.0",
+  "author": "COpS",
+  "main": "dist-electron/main/index.js",
   "private": true,
   "scripts": {
     "dev": "vite",
